@@ -3,13 +3,13 @@ This is my first project on Software Carpentryology.
 It contains great software for performing my data analysis.
 
 ## Usage
-Description
+Description.
 
-### First tool
-description of first tool
+### First Tool
+description of first tool.
 
 ### Second Tool
-description of second Tool
+description of second tool.
 
 ### Third Tool
 description of fancy new tool.
